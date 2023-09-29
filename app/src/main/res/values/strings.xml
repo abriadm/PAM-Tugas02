@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">project02</string>
+    <string name="text_view">Selamat Datang</string>
+    <string name="logo">About Us</string>
+    <string name="description">The International Business Machines Corporation, nicknamed Big Blue, is an American multinational technology corporation headquartered in Armonk, New York and is present in over 175 countries</string>
+    <string name="form">Contact Us</string>
+    <string name="form01">Name: </string>
+    <string name="form02">Email: </string>
+    <string name="question">Ask about us?</string>
+    <string name="button">Submit</string>
+    <string name="button01">Vote</string>
+    <string name="black">BLACK</string>
+    <string name="elon">ELON</string>
+    <string name="musk">MUSK</string>
+    <string name="nickname">Ari Jayaprakash</string>
+    <string name="aka">a.k.a. Black Elon Musk</string>
+</resources>

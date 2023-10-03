@@ -14,8 +14,11 @@
     <string name="musk">MUSK</string>
     <string name="nickname">Ari Jayaprakash</string>
     <string name="aka">a.k.a. Black Elon Musk</string>
-    <string name="parent">a.k.a. Black Elon Musk</string>
+    <string name="parent">MATCH PARENT</string>
     <string name="motor">Choice your motor cycle</string>
     <string name="right">Right</string>
     <string name="left">Left</string>
+    <string name="hint">Enter your name</string>
+    <string name="hint1">Enter your phone</string>
+    <string name="hint2">Enter your address</string>
 </resources>

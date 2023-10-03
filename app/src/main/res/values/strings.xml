@@ -14,4 +14,8 @@
     <string name="musk">MUSK</string>
     <string name="nickname">Ari Jayaprakash</string>
     <string name="aka">a.k.a. Black Elon Musk</string>
+    <string name="parent">a.k.a. Black Elon Musk</string>
+    <string name="motor">Choice your motor cycle</string>
+    <string name="right">Right</string>
+    <string name="left">Left</string>
 </resources>
